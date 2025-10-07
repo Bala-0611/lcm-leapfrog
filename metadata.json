@@ -1,0 +1,5 @@
+{
+  "name": "LCM Leapfrog",
+  "description": "An interactive game for students in grades 4-7 to learn the concept of Least Common Multiple (LCM) in a fun and visual way. Two frogs leap along a number line, and the first lily pad they share is the LCM!",
+  "requestFramePermissions": []
+}
